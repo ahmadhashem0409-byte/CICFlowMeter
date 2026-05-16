@@ -1,0 +1,40 @@
+2026-05-14 23:25:07 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2026-05-14 23:25:46 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-05-14 23:25:46 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-05-14 23:25:46 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagRST current has 18 flow
+2026-05-14 23:25:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagRST current has 19 flow
+2026-05-14 23:25:47 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-05-14 23:25:49 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-05-14 23:25:49 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 21 flow
+2026-05-14 23:25:58 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-05-14 23:25:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 25 flow
+2026-05-14 23:25:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 25 flow
+2026-05-14 23:25:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagRST current has 25 flow
+2026-05-14 23:26:15 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-05-14 23:26:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 25 flow
+2026-05-14 23:28:34 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagRST current has 42 flow
+2026-05-14 23:28:49 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-05-14 23:28:49 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-05-14 23:28:49 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2026-05-14 23:28:49 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2026-05-14 23:29:44 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-05-14 23:29:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 46 flow
+2026-05-14 23:30:37 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 57 flow
+2026-05-14 23:30:44 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-05-14 23:30:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 59 flow
+2026-05-14 23:30:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagRST current has 60 flow
+2026-05-14 23:31:34 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-05-14 23:31:34 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagRST current has 62 flow
+2026-05-14 23:31:49 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 64 flow
+2026-05-14 23:31:49 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 64 flow
+2026-05-14 23:33:00 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 65 flow
+2026-05-14 23:33:00 INFO  cic.cs.unb.ca.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2026-05-14 23:33:00 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagRST current has 65 flow
+2026-05-14 23:33:34 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 69 flow
+2026-05-14 23:34:09 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:C:\Users\Lenovo\Desktop\Project\AI-based-IDS\CICFlowMeter\data\daily\2026-05-14_Flow.csv
+2026-05-14 23:34:41 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2026-05-14 23:34:51 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:C:\Users\Lenovo\Desktop\Project\AI-based-IDS\CICFlowMeter\data\daily\2026-05-14_Flow.csv
+2026-05-14 23:34:57 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2026-05-14 23:34:57 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    Pcap stop listening
+2026-05-14 23:35:25 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2026-05-14 23:35:25 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    Pcap stop listening
